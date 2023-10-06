@@ -1,0 +1,1 @@
+{"uuid":"5f9eb87f-5f8c-4005-87f1-5aeb55f1abde","name":"API Test Regression Suite","children":["2c3f698f-1c8d-4764-9517-2ba0bfb51140"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1696574547609,"stop":1696574548325}],"afters":[],"links":[],"start":1696574547595,"stop":1696574551717}
